@@ -32,3 +32,28 @@ The salary histogram is right skewed, and most values lie between 70k to 150k
 
 - The yearsExperience variable has a positive and steady relationship with salary which means, as the years of experince increase the salary will also increase substantially
 - The milesFromMetropolis variable has a negative and steady relationship with salary which means, as the job location is further away from the metropolis the salary will go on decreasing
+
+### CORRELATION MATRIX
+
+<img src="Plots/Corr_mat.png" />
+
+- Positive correlation between variables **job_Type, degree, major, industry, yearsExperience** and **Salary**
+- Negative correlation between variable **milesFromMetropolis** and **Salary**
+- Strong positive correlation between **degree** and **major** which is likely to be
+- Weak yet positive correlation between **job_Type** and **degree, major** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
