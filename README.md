@@ -13,7 +13,7 @@ For this Salary prediction portfolio I chose to examine 1 million job records al
 ## DISCOVER DATA
 The Salary distribution histogram plot!
 
-<img src="Plots/Salary_dist.png" />
+<img src="Plots/Salary_dist.png"/>
 The salary histogram is right skewed, and most values lie between 70k to 150k
 
 ### DISTRIBUTION OF CATEGORICAL VARIABLES IN THE DATASET
@@ -76,7 +76,7 @@ I split this dataset as training and testing dataset witha asplit of 0.70 for tr
 #### Gradient Boosting Regressor provides the best results so I used this model to predict the salaries of a completely different job records and saved it in a csv file.
 
 The Plot below shows the feature importances of the features used in the model
-<img src="Plots/fi.png" /> 
+<img src="Plots/fi.png"/> 
 
 # THANK YOU!
 
