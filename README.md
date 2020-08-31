@@ -18,8 +18,8 @@ The salary histogram is right skewed, and most values lie between 70k to 150k
 
 ### DISTRIBUTION OF CATEGORICAL VARIABLES IN THE DATASET
 
-<img src="Plots/jt.png" width="450"/>  <img src="Plots/ind.png" width="450"/> 
-<img src="Plots/deg.png" width="450"/>  <img src="Plots/maj.png" width="450"/>
+<img src="Plots/jt.png" width="450"/> &ensp;&ensp;&ensp; <img src="Plots/ind.png" width="450"/> 
+<img src="Plots/deg.png" width="450"/> &ensp;&ensp;&ensp; <img src="Plots/maj.png" width="450"/>
 
 - The job_type CEO has the highest salary distribution and the Janitor has the lowest.
 - The degrees 'Doctoral' and 'Masters' has a higher salary distribution and people with no major (i.e "NONE") has the lowest
