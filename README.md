@@ -13,7 +13,7 @@ For this Salary prediction portfolio I chose to examine 1 million job records al
 ## DISCOVER DATA
 The Salary distribution histogram plot!
 
-<img src="Plots/Salary_dist.png"/>
+<img src="Plots/ Salary_dist.png"/>
 The salary histogram is right skewed, and most values lie between 70k to 150k
 
 ### DISTRIBUTION OF CATEGORICAL VARIABLES IN THE DATASET
@@ -44,7 +44,7 @@ The salary histogram is right skewed, and most values lie between 70k to 150k
 - **job_id & company_id** have a wekest possible or a negligible correlation with **salary**
 
 ## DEVELOP MODEL
-- The variable **job_Id** is unique to each and every data record and **company_Id** has a negligible correlation with **Salary**. Hence, it will be best to exclude these      variables for modelling. 
+- The variable **job_Id** is unique to each and every data record and **company_Id** has a negligible correlation with **Salary**. Hence, it will be best to exclude these      variables for modeling. 
 - Variables **job_Type, degree, major, industry** are categorical variables. Thus, one-hot encoding them will be better for modeling.
 
 ### Based on the above EDA, I chose the following predictors for modelling
