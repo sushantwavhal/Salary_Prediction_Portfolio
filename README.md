@@ -66,7 +66,7 @@ After prediction, I used Mean_squared_error as an evaluation metric and got the 
 |-----|-----|
 |Baseline_model|963.92|
 
-I split this dataset as training and testing dataset witha asplit of 0.70 for training and 0.30 for testing. I used these models used after feature engineering and their Mean_squared_error were obtained as follows:
+I did a 70% training and 30% testing split on this dataset. Following models were used after feature engineering and their Mean_squared_error were obtained as follows:
 |No.|Model|MSE_Score|Standard-deviation|
 |---|-----|---------|------------------|
 |1. |Linear Regression|385.23|1.89|
